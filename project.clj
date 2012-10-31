@@ -1,4 +1,4 @@
-(defproject fits-analysis "0.1.0-SNAPSHOT"
+(defproject fits-analysis "0.1.0"
   :description "Program to analyse performance of FITS characterisations."
   :url "http://statsbiblioteket.dk"
   :license {:name "Eclipse Public License"
